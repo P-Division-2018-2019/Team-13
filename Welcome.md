@@ -19,9 +19,9 @@
  
  ***
  
- ###Activities
- ***
- ###Activity 1: SpoonCanon
+ ### Activities
+  
+ ### Activity 1: SpoonCanon
  
  ![SpoonCanon1](https://i.ibb.co/ZXGGG7S/Untitled.png)
  
