@@ -1,5 +1,8 @@
 ***
 # Welcome To team 13.
+
+Activity track folder : [Activities](https://github.com/P-Division-2018-2019/Team-13/tree/master/Activites)
+
 ***
 ## Members:-
 
@@ -18,13 +21,6 @@
  |1666|[Payal Mahajan](https://github.com/payal309)|13|
  
  ***
- 
- ### Activities
-  
- ### Activity 1: SpoonCanon
- 
- ![SpoonCanon1](https://i.ibb.co/ZXGGG7S/Untitled.png)
- 
  
  ### Just for fun
  
